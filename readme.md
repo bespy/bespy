@@ -1,9 +1,10 @@
 <img src="https://github.com/xandemon/developer-icons/blob/main/icons/reactjs.svg" alt="drawing" width="200"/>
+<img src="https://github.com/xandemon/developer-icons/blob/main/icons/remix-dark.svg" alt="drawing" width="200"/>
+<img src="https://github.com/xandemon/developer-icons/blob/main/icons/remix-light.svg" alt="drawing" width="200"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xandemon/developer-icons/blob/main/icons/remix-dark.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/xandemon/developer-icons/blob/main/icons/remix-light.svg">
-  <img  alt="drawing" width="200"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xandemon/developer-icons/blob/main/icons/remix-light.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/xandemon/developer-icons/blob/main/icons/remix-dark.svg" width="200">
 </picture>
 <div class="grid cards" markdown>
 
@@ -12,6 +13,8 @@
   ***
 
   <img src="https://github.com/xandemon/developer-icons/blob/main/icons/reactjs.svg" alt="drawing" width="200"/>
+   <img src="https://github.com/xandemon/developer-icons/blob/main/icons/reactjs.svg" alt="drawing" width="200"/>
+    <img src="https://github.com/xandemon/developer-icons/blob/main/icons/reactjs.svg" alt="drawing" width="200"/>
 
 - Daily distance post-challenge
 
