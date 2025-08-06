@@ -14,44 +14,11 @@ Example Projects:
 
 Technology used:
 
-- [Remix App](https://github.com/bespy/remix-app)
-  - The Epic Stack
-  - Typescript
-  - React
-  - Remix v2
-  - React Router v7
-  - Vite
-  - Tailwind
-  - NodeJS
-  - SQLite
-  - Prisma
-- [Next App](https://github.com/bespy/next-app)
-  - NextJS
-  - App & Pages Router
-  - Javascript
-  - TypeScript
-  - React
-  - Tailwind
-  - ShadCN
-  - NeonDB
-  - NodeJS
-  - Postgres
-- Previous Projects
-  - Node Express & KoaJS.
-  - Solana Anchor
-  - Google Maps API
-  - google-maps-react
-  - Highcharts
-  - ChartsJS
-  - HTML5 canvas
-  - Radix
-  - Hero UI
-  - Hugo
-  - Handlebars
-  - Swift
-  - Python
-  - Rust
-  - ...and others
+The [Remix App](https://github.com/bespy/remix-app) is built with [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma.
+
+The [Next App](https://github.com/bespy/next-app) is built with NextJS, App & Pages Router, Javascript, TypeScript, React, Tailwind, ShadCN, NeonDB, NodeJS, Postgres.
+
+I have completed previous projects using: Node Express & KoaJS., Solana Anchor, Google Maps API, google-maps-react, Highcharts, ChartsJS, HTML5 canvas, Radix, Hero UI, Hugo, Handlebars, Swift, Python, Rust, ...and others.
 
 <div class="grid cards grid-col" markdown>
 
