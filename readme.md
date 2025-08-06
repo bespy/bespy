@@ -7,11 +7,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/bespy?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://slvr.mn/)](https://slvr.mn/)
 
-I have built apps with Javascript, TypeScript, React, Remix, React Router, Vite, Tailwind, ShadCN, Radix, Hero UI, Postgres, SQLite, NeonDB, Prisma, Epic Stack, NextJS App Router, NextJS Pages Router, Hugo, Handlebars, Swift, Python and others...
+Skills:
+
+- The Epic Stack including Typescript, React, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma
+- NextJS including App & Pages Router, Javascript, TypeScript, React, Tailwind, ShadCN, NeonDB, NodeJS, Postgres,
+- Solana Anchor
+- Other projects including Radix, Hero UI, Hugo, Handlebars, Swift, Python and others...
 
 <div class="grid cards" markdown>
 
-- Tech Stack
+- Stack
 
   ***
 
