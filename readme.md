@@ -9,14 +9,9 @@
 
 Example Projects:
 
-- [Remix App](https://github.com/bespy/remix-app)
-- [Next App](https://github.com/bespy/next-app)
+My [Remix App](https://github.com/bespy/remix-app) is built with [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma.
 
-Technology used:
-
-The [Remix App](https://github.com/bespy/remix-app) is built with [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma.
-
-The [Next App](https://github.com/bespy/next-app) is built with NextJS, App & Pages Router, Javascript, TypeScript, React, Tailwind, ShadCN, NeonDB, NodeJS, Postgres.
+My [Next App](https://github.com/bespy/next-app) is built with NextJS, App & Pages Router, Javascript, TypeScript, React, Tailwind, ShadCN, NeonDB, NodeJS, Postgres.
 
 I have completed previous projects using: Node Express & KoaJS., Solana Anchor, Google Maps API, google-maps-react, Highcharts, ChartsJS, HTML5 canvas, Radix, Hero UI, Hugo, Handlebars, Swift, Python, Rust, ...and others.
 
