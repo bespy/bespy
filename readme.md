@@ -11,7 +11,7 @@ Example Projects:
 
 My [Remix App](https://github.com/bespy/remix-app) is Full Stack app built with [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma.
 
-My [Solana App](https://github.com/bespy/solana-app) is a backend service that updates an SQLite database based on Blockchain transactions. It includes an on-chain event listener that utilises a Websocket connection to the Helius RPC and a transaction parser that utilises a Http connection to the Helius API.
+My [Solana App](https://github.com/bespy/solana-app) includes a Solana Program written in Rust and a NodeJS Backend Service. The Solana Program is a Smart Contract that is deployed to developer network (devnet) writes transactions to the Blockchain when it is invoked. The backend service includes an on-chain event listener that utilises a Websocket connection to the Helius RPC and a transaction parser that utilises a Http connection to the Helius API.
 
 My [Next App](https://github.com/bespy/next-app) is Full Stack app built with NextJS, App Router, Javascript, TypeScript, React, Tailwind, ShadCN, NeonDB, NodeJS, Postgres.
 
