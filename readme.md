@@ -2,9 +2,9 @@
 <p><em>Looking for work!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitte?label=Follow)](https://twitter.com/intent/follow?screen_name=jacobsilverman)
-[![Linkedin Follow](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-silverman-0a1022242/)](https://www.linkedin.com/in/jacob-silverman-0a1022242/)
-[![Website View](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://slvr.mn/)](https://slvr.mn/)
+[![Twitter](https://img.shields.io/twitter/follow/jacobsilverman?label=X%20sfka%20sTwitter)](https://twitter.com/intent/follow?screen_name=jacobsilverman)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-silverman-0a1022242/)](https://www.linkedin.com/in/jacob-silverman-0a1022242/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://slvr.mn/)](https://slvr.mn/)
 
 Example Projects available on Github:
 
