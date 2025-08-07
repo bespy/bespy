@@ -16,6 +16,10 @@ My [Next App](https://github.com/bespy/next-app) is Full Stack app bootstrapped 
 
 I have completed previous projects using: NextJS Pages Router, Node Express & KoaJS, Solana Anchor, Google Maps API, google-maps-react, Highcharts, ChartsJS, HTML5 canvas, Radix, Hero UI, Hugo, Handlebars, Swift, Python, Rust, ...and others.
 
+Education:
+
+🎓Bachelor Engineering (Electrical), UNSW, Sydney, Australia.
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bespy/gh-assets/blob/main/remix-app-01-dark.svg">
     <img alt="Svg changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/bespy/gh-assets/blob/main/remix-app-01-light.svg">
