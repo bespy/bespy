@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/bespy?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://slvr.mn/)](https://slvr.mn/)
 
-Example Projects Available on Github:
+Example Projects available on Github:
 
 My [Remix App](https://github.com/bespy/remix-app) is a Full Stack app bootstrapped from [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma.
 
