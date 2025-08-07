@@ -9,11 +9,11 @@
 
 Example Projects Available on Github:
 
-My [Remix App](https://github.com/bespy/remix-app) is Full Stack app built with [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma.
+My [Remix App](https://github.com/bespy/remix-app) is Full Stack app bootstrapped from [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma.
 
-My [Solana App](https://github.com/bespy/solana-app) includes a Solana Program written in Rust and a NodeJS Backend Service. The Solana Program is a Smart Contract that is deployed to developer network (devnet) and writes transactions to the Blockchain when it is invoked. The backend service includes an on-chain event listener that utilises a Websocket connection to the Helius RPC and a transaction parser that utilises a Http connection to the Helius API.
+My [Solana App](https://github.com/bespy/solana-app) bootstrapped from [Anchor](https://www.anchor-lang.com/docs) includes a Solana Program written in Rust and a NodeJS Backend Service. The Solana Program is a Smart Contract that is deployed to developer network (devnet) and writes transactions to the Blockchain when it is invoked. The backend service includes an on-chain event listener that utilises a Websocket connection to the Helius RPC and a transaction parser that utilises a Http connection to the Helius API.
 
-My [Next App](https://github.com/bespy/next-app) is Full Stack app built with NextJS, App Router, Javascript, TypeScript, React, Tailwind, ShadCN, NeonDB, NodeJS, Postgres.
+My [Next App](https://github.com/bespy/next-app) bootstrapped from [create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app) is Full Stack app built with NextJS, App Router, Javascript, TypeScript, React, Tailwind, ShadCN, NeonDB, NodeJS, Postgres.
 
 I have completed previous projects using: NextJS Pages Router, Node Express & KoaJS, Solana Anchor, Google Maps API, google-maps-react, Highcharts, ChartsJS, HTML5 canvas, Radix, Hero UI, Hugo, Handlebars, Swift, Python, Rust, ...and others.
 
