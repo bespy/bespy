@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-silverman-0a1022242/)](https://www.linkedin.com/in/jacob-silverman-0a1022242/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://slvr.mn/)](https://slvr.mn/)
 
-Example Projects available on Github:
+<h3>👨🏻‍💻 Projects</h3>
 
 My [Remix App](https://github.com/bespy/remix-app) is a Full Stack app bootstrapped from [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma.
 
@@ -16,11 +16,11 @@ My [Next App](https://github.com/bespy/next-app) is Full Stack app bootstrapped 
 
 I have completed previous projects using: NextJS Pages Router, Node Express & KoaJS, Solana Anchor, Google Maps API, google-maps-react, Highcharts, ChartsJS, HTML5 canvas, Radix, Hero UI, Hugo, Handlebars, Swift, Python, Rust, ...and others.
 
-Education:
-
-🎓Bachelor Engineering (Electrical), UNSW, Sydney, Australia.
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bespy/gh-assets/blob/main/remix-app-01-dark.svg">
     <img alt="Svg changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/bespy/gh-assets/blob/main/remix-app-01-light.svg">
   </picture>
+
+<h3>🎓 Education</h3>
+
+Bachelor Engineering (Electrical), UNSW, Sydney, Australia.
