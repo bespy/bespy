@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/jacobsilverman?label=Follow)](https://twitter.com/intent/follow?screen_name=jacobsilverman)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-silverman-0a1022242/)](https://www.linkedin.com/in/jacob-silverman-0a1022242/)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://slvr.mn/)](https://slvr.mn/)
-[!Mail](https://img.shields.io/badge/Mail?link=mailto:jacob@slvr.mn)
+[!Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jacob@slvr.mn)
 
 <p><em>I am Looking for work!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
