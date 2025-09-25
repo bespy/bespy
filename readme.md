@@ -7,13 +7,13 @@
 
 <h3>👨🏻‍💻 Projects</h3>
 
-My [Remix App](https://github.com/bespy/remix-app) is a Full Stack app bootstrapped from [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma.
+My [Remix App](remix.slvr.mn) is a Full Stack app bootstrapped from Kent Dodd's [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma. Email me for access to the repo.
 
 <!-- Notable features of this project include Full Stack Components, Server-Sent Events (SSE). -->
 
 My [Solana App](https://github.com/bespy/solana-app) is bootstrapped with [`anchor-cli`](https://www.anchor-lang.com/docs) and includes a Solana Program written in Rust and a NodeJS Backend Service. The Solana Program is a Smart Contract that is deployed to local network (localnet) and writes transactions to the Blockchain when it is invoked. The backend service includes an on-chain event listener that utilises a Websocket connection to the Helius RPC and a transaction parser that utilises a Http connection to the Helius API.
 
-My [Next App](https://github.com/bespy/next-app) is Full Stack app bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) and built with NextJS, App Router, Javascript, TypeScript, React, Tailwind, ShadCN, NeonDB, NodeJS, Postgres.
+My [Next App](next.slvr.mn) is Full Stack app bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) and built with NextJS, App Router, Javascript, TypeScript, React, Tailwind, ShadCN, NeonDB, NodeJS, Postgres. Email me for access to the repo.
 
 I have completed previous projects using: NextJS Pages Router, Node Express & KoaJS, Solana Anchor, Google Maps API, google-maps-react, Highcharts, ChartsJS, HTML5 canvas, Radix, Hero UI, Hugo, Handlebars, Swift, Python, Rust, ...and others.
 
