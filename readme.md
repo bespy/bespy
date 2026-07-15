@@ -1,29 +1,32 @@
-<h2>👋 Hi,  I'm Jacob! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h2>
+## Jacob Silverman
 
-[![Twitter](https://img.shields.io/twitter/follow/jacobsilverman?label=Follow)](https://twitter.com/intent/follow?screen_name=jacobsilverman)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-silverman-0a1022242/)](https://www.linkedin.com/in/jacob-silverman-0a1022242/)
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://slvr.mn/)](https://slvr.mn/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jacob@slvr.mn)](mailto:jacob@slvr.mn)
+Software engineer — **data-intensive applications in AI, crypto, and fintech**. I build systems that turn messy, high-volume data into legible product: deterministic ledgers, multi-chain event parsing, on-chain forensics, and agentic AI harnesses with the guardrails to keep them honest.
 
-<h3>👨🏻‍💻 Projects</h3>
+[![Website](https://img.shields.io/badge/Website-slvr.mn-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://slvr.mn/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-silverman-0a1022242/)
+[![Mail](https://img.shields.io/badge/Email-jacob@slvr.mn-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jacob@slvr.mn)
 
-My [Remix App Demo](https://remix.slvr.mn) is a Full Stack app bootstrapped from Kent Dodd's [The Epic Stack](https://www.epicweb.dev/epic-stack) that includes React, Typescript, Remix v2, React Router v7, Vite, Tailwind, NodeJS, SQLite, Prisma.
+### What I build
 
-<!-- Notable features of this project include Full Stack Components, Server-Sent Events (SSE). -->
+**AccountMD** — a deterministic double-entry engine for crypto + fiat, operated through an AI harness (Claude Code + domain skills) so every number carries its receipts. FIFO cost basis, multi-chain event parsing, per-wallet audit trails, and on-chain forensics — reconstructing wallet flows and running token/project due-diligence (rugs, exploits) on Solana. *Private/proprietary — email for a walkthrough.*
 
-My [Next App Demo](https://next.slvr.mn) is Full Stack app bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) and built with NextJS, App Router, Javascript, TypeScript, React, Tailwind, ShadCN, NeonDB, NodeJS, Postgres.
+**Solana trading infrastructure** — P&L analytics and trade-ledger reconstruction for delta-neutral day-trading and DLMM market-making (Meteora), across thousands of transactions.
 
-My [Solana App](https://github.com/bespy/solana-app) is bootstrapped with [`anchor-cli`](https://www.anchor-lang.com/docs) and includes a Solana Program written in Rust and a NodeJS Backend Service. The Solana Program is a Smart Contract that is deployed to local network (localnet) and writes transactions to the Blockchain when it is invoked. The backend service includes an on-chain event listener that utilises a Websocket connection to the Helius RPC and a transaction parser that utilises a Http connection to the Helius API.
+**Local ML pipelines** — multi-modal (voice / vision / OCR) over 100GB+, running on local models, parsing statements, screenshots, and recordings into structured, sourced data.
 
-If you want to check out my coding style email me for access to the repos.
+Live demos and write-ups → **[slvr.mn](https://slvr.mn/)**
 
-I have completed previous projects using: NextJS Pages Router, Node Express & KoaJS, Solana Anchor, Google Maps API, google-maps-react, Highcharts, ChartsJS, HTML5 canvas, Radix, Hero UI, Hugo, Handlebars, Swift, Python, Rust, ...and others.
+### Public code
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bespy/gh-assets/blob/main/remix-app-01-dark.svg">
-    <img alt="Svg changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/bespy/gh-assets/blob/main/remix-app-01-light.svg">
-  </picture>
+- **[solana-app](https://github.com/bespy/solana-app)** — a Solana program (Rust / Anchor) plus a NodeJS backend: an on-chain event listener over a Helius RPC WebSocket and a transaction parser over the Helius API.
+- **[meteora-profit-analysis](https://github.com/bespy/meteora-profit-analysis)** / **[meteora-dlmm-db](https://github.com/bespy/meteora-dlmm-db)** — Meteora DLMM profitability + database tooling.
 
-<h3>🎓 Education</h3>
+Most of my current work (AccountMD, the forensics tooling) is private — email **jacob@slvr.mn** for a code walkthrough.
 
-Bachelor Engineering (Electrical), UNSW, Sydney, Australia.
+### Stack
+
+TypeScript · Node · React · React Router / Remix · Next.js · Python · Rust · Solana (Anchor, Helius) · PostgreSQL · SQLite / FTS5 · GraphQL · Prisma / Drizzle · Local LLMs (Llama, MLX) · Whisper / Qwen3-VL · D3 / SVG · Tailwind · Docker · CI/CD · GCP · AWS · Vercel
+
+### Education
+
+B.E. (Electrical), UNSW — Sydney, Australia
