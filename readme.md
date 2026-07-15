@@ -1,4 +1,4 @@
-## Jacob Silverman
+## Jacob
 
 Software engineer — **data-intensive applications in AI, crypto, and fintech**. I build systems that turn messy, high-volume data into legible product: deterministic ledgers, multi-chain event parsing, on-chain forensics, and agentic AI harnesses with the guardrails to keep them honest.
 
