@@ -4,7 +4,6 @@ I build infrastructure for agentic workflows — accounting components for React
 
 [![Website](https://img.shields.io/badge/Website-slvr.mn-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://slvr.mn/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-silverman-0a1022242/)
-[![Mail](https://img.shields.io/badge/Email-jacob@slvr.mn-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jacob@slvr.mn)
 
 ### Currently
 
@@ -35,7 +34,7 @@ More, with live demos → **[slvr.mn](https://slvr.mn/)**
 - **[fairway](https://github.com/bespy/fairway)** — install, the tool catalogue, the ruleset, and how the hooks are derived from your own session history.
 - **[solana-app](https://github.com/bespy/solana-app)** — a Solana program (Rust / Anchor) plus a Node backend: an on-chain event listener over a Helius RPC WebSocket, and a transaction parser over the Helius API.
 
-Most current work is private — email **jacob@slvr.mn** for a code walkthrough.
+Most current work is private — get in touch via **[slvr.mn](https://slvr.mn/)** or [LinkedIn](https://www.linkedin.com/in/jacob-silverman-0a1022242/) for a code walkthrough.
 
 ### Stack
 
